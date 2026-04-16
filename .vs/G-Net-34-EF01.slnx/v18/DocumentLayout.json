@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\backend-.net\\assignmentoop\\G-Net-34-EF01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend-.net\\assignmentoop\\G-Net-34-EF01\\G-Net-34-EF01\\Migrations\\20260416011521_BookStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:G-Net-34-EF01\\Migrations\\20260416011521_BookStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A53E925D-5B17-3662-7831-A44F986FC77E}|G-Net-34-EF01\\G-Net-34-EF01.csproj|d:\\backend-.net\\assignmentoop\\g-net-34-ef01\\g-net-34-ef01\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E925D-5B17-3662-7831-A44F986FC77E}|G-Net-34-EF01\\G-Net-34-EF01.csproj|solutionrelative:g-net-34-ef01\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04CCFCE2-7D36-44C6-BAB9-D3C49E855E0F}|G-Net-34-EF01\\G-Net-34-EF01.csproj|d:\\backend-.net\\assignmentoop\\g-net-34-ef01\\g-net-34-ef01\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04CCFCE2-7D36-44C6-BAB9-D3C49E855E0F}|G-Net-34-EF01\\G-Net-34-EF01.csproj|solutionrelative:g-net-34-ef01\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A53E925D-5B17-3662-7831-A44F986FC77E}|G-Net-34-EF01\\G-Net-34-EF01.csproj|d:\\backend-.net\\assignmentoop\\g-net-34-ef01\\g-net-34-ef01\\migrations\\20260416011521_bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E925D-5B17-3662-7831-A44F986FC77E}|G-Net-34-EF01\\G-Net-34-EF01.csproj|solutionrelative:g-net-34-ef01\\migrations\\20260416011521_bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04CCFCE2-7D36-44C6-BAB9-D3C49E855E0F}|G-Net-34-EF01\\G-Net-34-EF01.csproj|d:\\backend-.net\\assignmentoop\\g-net-34-ef01\\g-net-34-ef01\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04CCFCE2-7D36-44C6-BAB9-D3C49E855E0F}|G-Net-34-EF01\\G-Net-34-EF01.csproj|solutionrelative:g-net-34-ef01\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A53E925D-5B17-3662-7831-A44F986FC77E}|G-Net-34-EF01\\G-Net-34-EF01.csproj|d:\\backend-.net\\assignmentoop\\g-net-34-ef01\\g-net-34-ef01\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E925D-5B17-3662-7831-A44F986FC77E}|G-Net-34-EF01\\G-Net-34-EF01.csproj|solutionrelative:g-net-34-ef01\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04CCFCE2-7D36-44C6-BAB9-D3C49E855E0F}|G-Net-34-EF01\\G-Net-34-EF01.csproj|d:\\backend-.net\\assignmentoop\\g-net-34-ef01\\g-net-34-ef01\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04CCFCE2-7D36-44C6-BAB9-D3C49E855E0F}|G-Net-34-EF01\\G-Net-34-EF01.csproj|solutionrelative:g-net-34-ef01\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A53E925D-5B17-3662-7831-A44F986FC77E}|G-Net-34-EF01\\G-Net-34-EF01.csproj|d:\\backend-.net\\assignmentoop\\g-net-34-ef01\\g-net-34-ef01\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E925D-5B17-3662-7831-A44F986FC77E}|G-Net-34-EF01\\G-Net-34-EF01.csproj|solutionrelative:g-net-34-ef01\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04CCFCE2-7D36-44C6-BAB9-D3C49E855E0F}|G-Net-34-EF01\\G-Net-34-EF01.csproj|d:\\backend-.net\\assignmentoop\\g-net-34-ef01\\g-net-34-ef01\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04CCFCE2-7D36-44C6-BAB9-D3C49E855E0F}|G-Net-34-EF01\\G-Net-34-EF01.csproj|solutionrelative:g-net-34-ef01\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A53E925D-5B17-3662-7831-A44F986FC77E}|G-Net-34-EF01\\G-Net-34-EF01.csproj|d:\\backend-.net\\assignmentoop\\g-net-34-ef01\\g-net-34-ef01\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E925D-5B17-3662-7831-A44F986FC77E}|G-Net-34-EF01\\G-Net-34-EF01.csproj|solutionrelative:g-net-34-ef01\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04CCFCE2-7D36-44C6-BAB9-D3C49E855E0F}|G-Net-34-EF01\\G-Net-34-EF01.csproj|d:\\backend-.net\\assignmentoop\\g-net-34-ef01\\g-net-34-ef01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04CCFCE2-7D36-44C6-BAB9-D3C49E855E0F}|G-Net-34-EF01\\G-Net-34-EF01.csproj|solutionrelative:g-net-34-ef01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A53E925D-5B17-3662-7831-A44F986FC77E}|G-Net-34-EF01\\G-Net-34-EF01.csproj|d:\\backend-.net\\assignmentoop\\g-net-34-ef01\\g-net-34-ef01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E925D-5B17-3662-7831-A44F986FC77E}|G-Net-34-EF01\\G-Net-34-EF01.csproj|solutionrelative:g-net-34-ef01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "20260416011521_BookStore.cs",
               "DocumentMoniker": "D:\\backend-.net\\assignmentoop\\G-Net-34-EF01\\G-Net-34-EF01\\Migrations\\20260416011521_BookStore.cs",
               "RelativeDocumentMoniker": "G-Net-34-EF01\\Migrations\\20260416011521_BookStore.cs",
@@ -55,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BookStoreContext.cs",
               "DocumentMoniker": "D:\\backend-.net\\assignmentoop\\G-Net-34-EF01\\G-Net-34-EF01\\BookStoreContext.cs",
               "RelativeDocumentMoniker": "G-Net-34-EF01\\BookStoreContext.cs",
               "ToolTip": "D:\\backend-.net\\assignmentoop\\G-Net-34-EF01\\G-Net-34-EF01\\BookStoreContext.cs",
               "RelativeToolTip": "G-Net-34-EF01\\BookStoreContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T01:12:48.448Z",
               "EditorCaption": ""
@@ -76,12 +76,11 @@
               "RelativeToolTip": "G-Net-34-EF01\\Category.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T01:10:18.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T01:10:18.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\backend-.net\\assignmentoop\\G-Net-34-EF01\\G-Net-34-EF01\\Book.cs",
               "RelativeDocumentMoniker": "G-Net-34-EF01\\Book.cs",
@@ -89,12 +88,11 @@
               "RelativeToolTip": "G-Net-34-EF01\\Book.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T01:06:53.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T01:06:53.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Author.cs",
               "DocumentMoniker": "D:\\backend-.net\\assignmentoop\\G-Net-34-EF01\\G-Net-34-EF01\\Author.cs",
               "RelativeDocumentMoniker": "G-Net-34-EF01\\Author.cs",
@@ -102,8 +100,7 @@
               "RelativeToolTip": "G-Net-34-EF01\\Author.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T01:06:15.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T01:06:15.22Z"
             },
             {
               "$type": "Document",
@@ -115,8 +112,7 @@
               "RelativeToolTip": "G-Net-34-EF01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T00:59:32.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T00:59:32.073Z"
             }
           ]
         }
